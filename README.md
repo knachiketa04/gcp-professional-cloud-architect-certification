@@ -10,9 +10,6 @@ Welcome to my journey of preparing for the **Google Cloud Professional Cloud Arc
 2. [Study Plan](#study-plan)
 3. [Resources](#resources)
 4. [How to Use This Repository](#how-to-use-this-repository)
-5. [Contributing](#contributing)
-6. [Acknowledgments](#acknowledgments)
-7. [License](#license)
 
 ---
 
