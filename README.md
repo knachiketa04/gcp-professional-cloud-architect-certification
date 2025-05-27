@@ -49,6 +49,7 @@ My study plan includes:
 - [Exam Guide](https://services.google.com/fh/files/misc/professional_cloud_architect_exam_guide_english.pdf)
 - [Case Studies](https://cloud.google.com/certification/guides/cloud-architect)
 - [Progress Tracker (Google Sheet)](https://docs.google.com/spreadsheets/d/1aO-ETdX8ppKcnf7SH76AMA_zvG2HVg63iC-fRA1Ywm8/edit?usp=sharing)
+- **Study Guide**: *Google Cloud Certified Professional Cloud Architect Study Guide* by Dan Sullivan (Second Edition). This book includes practice exams, flashcards, and a glossary of key terms.
 
 ---
 
