@@ -1,6 +1,6 @@
 ## Architecture Diagram
 
-![EHR Healthcare Case Study Architecture](helecopter-league-case-study.svg)
+![Helicopter League Case Study Architecture](helecopter-league-case-study.svg)
 
 ## Helicopter Racing League (HRL): A Deep Dive [#Reference](https://services.google.com/fh/files/blogs/master_case_study_helicopter_racing_league.pdf)
 

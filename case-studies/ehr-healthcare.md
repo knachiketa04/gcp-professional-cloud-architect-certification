@@ -1,9 +1,10 @@
 ## EHR Potential Architecure Diagram
 
+![EHR Health Case Study Architecture](ehr-health-care-case-study.svg)
 
 ## EHR Case Study Notes
 
-- **Company Overview & Solution Concept:** EHR Healthcare is a rapidly growing **Software as a Service (SaaS) provider** specializing in **electronic health record (EHR) software** for multinational medical offices, hospitals, and insurance providers. Their core motivation for moving to Google Cloud is to **scale their environment, enhance disaster recovery, and enable continuous deployment** capabilities for faster software updates, driven by an expiring lease on one of their multiple colocation facilities.  
+- **Company Overview & Solution Concept:** EHR Healthcare is a rapidly growing **Software as a Service (SaaS) provider** specializing in **electronic health record (EHR) software** for multinational medical offices, hospitals, and insurance providers. Their core motivation for moving to Google Cloud is to **scale their environment, enhance disaster recovery, and enable continuous deployment** capabilities for faster software updates, driven by an expiring lease on one of their multiple colocation facilities.
 
 - **Existing Technical Environment:**
 
@@ -29,7 +30,7 @@
   - Establish a **consistent method for managing container-based customer-facing applications**.
   - Ensure a **secure and high-performance network connection** between on-premises systems and Google Cloud.
 
-- **Executive Statement (Crucial Context):** The executive explicitly highlights past challenges: **high time and money investment in training disparate on-premises systems, managing similar but separate environments, and frequent outages due to misconfigurations, inadequate capacity for traffic spikes, and inconsistent monitoring**. The vision for Google Cloud is a **"scalable, resilient platform that can span multiple environments seamlessly and provide a consistent and stable user experience that positions us for future growth"**.  
+- **Executive Statement (Crucial Context):** The executive explicitly highlights past challenges: **high time and money investment in training disparate on-premises systems, managing similar but separate environments, and frequent outages due to misconfigurations, inadequate capacity for traffic spikes, and inconsistent monitoring**. The vision for Google Cloud is a **"scalable, resilient platform that can span multiple environments seamlessly and provide a consistent and stable user experience that positions us for future growth"**.
 
 - **Architectural Implications & Considerations (Your Analysis):**
   - The emphasis on **scalability, resilience, and multi-country operations** strongly suggests a **multiregional deployment strategy**.
