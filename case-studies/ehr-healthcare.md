@@ -1,6 +1,5 @@
 ## EHR Potential Architecure Diagram
 
-![EHR Healthcare Case Study Architecture](ehr-health-care-case-study.svg)
 
 ## EHR Case Study Notes
 
