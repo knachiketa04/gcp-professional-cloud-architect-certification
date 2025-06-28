@@ -3,6 +3,9 @@
 *.code-workspace
 .history/
 
+# Private folders (keep local only)
+practice-questions/
+
 # Operating System
 .DS_Store
 .DS_Store?
